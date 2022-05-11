@@ -1,0 +1,2 @@
+# Computer-Vision
+Usando el software de Matlab se realizara un procesamiento de imágenes para poder encontrar el camino mas óptimo utilizando búsquedas heurísticas. El mapa a analizarse contendrá objetos y obstáculos, a los cuales se les aplicara segmentación y operaciones morfológicas para poder realizar un análisis de nodos y aplicar una heurísticas como lo es la distancia euclidiana en conjunto a pesos de cada nodo.
